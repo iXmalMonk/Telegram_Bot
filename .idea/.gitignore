@@ -1,6 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/*.xml
-/*.iml
-/inspectionProfiles/
+/vcs.xml
+/Telegram_Bot.iml
+/modules.xml
+/misc.xml
+/inspectionProfiles
